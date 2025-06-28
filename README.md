@@ -1,6 +1,4 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaehyeon3357)](https://solved.ac/jaehyeon3357)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v1/generate_badge?boj=jaehyeon3357)](https://solved.ac/jaehyeon3357)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v3/generate_badge?boj=jaehyeon3357)](https://solved.ac/jaehyeon3357)
 <!--
 **JAEHYEON-BAE/JAEHYEON-BAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
