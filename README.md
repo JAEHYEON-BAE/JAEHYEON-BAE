@@ -89,12 +89,21 @@ Primary language: **C++**
 
 <div align="center">
 
+<div align="center">
+
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=JAEHYEON-BAE&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-       alt="GitHub Stats" />
+       alt="GitHub Stats">
   <img height="165"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAEHYEON-BAE&layout=compact&theme=tokyonight&langs_count=8"
-       alt="Top Languages" />
+       alt="Top Languages">
+
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JAEHYEON-BAE&theme=tokyonight&date_format=j%20M%5B%20Y%5D"
+       alt="GitHub Streak">
+</div>
 
 </div>
 
