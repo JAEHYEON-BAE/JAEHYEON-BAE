@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jaehyeon Bae 👋
+# Jaehyeon Bae
 
 ### Developer · Daegu, Korea
 
@@ -9,47 +9,31 @@
 
 </div>
 
----
 
-## 👤 About Me
 
-I build things that run natively — desktop apps, stage lighting systems, AI pipelines, and automation tools.
-Interested in algorithm problem solving and in making software that touches hardware or crosses the boundary between humans and machines.
 
-- 🔭 &nbsp;Currently working on **[consensus-orchestrator](https://github.com/JAEHYEON-BAE/consensus-orchestrator)** — multi-AI review pipeline with Claude Code & Codex
-- 🌱 &nbsp;Currently exploring **AI agent orchestration and RL-based scheduling**
-- ⚡ &nbsp;Fun fact: I built a live stage lighting controller with DMX512 hardware from scratch
 
----
 
-## 🛠 Tech Stack
 
-**Languages**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat&logo=ocaml&logoColor=white)
 
-**Frameworks & Platforms**
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
-**AI & Tooling**
 
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📂 Featured Projects
 
