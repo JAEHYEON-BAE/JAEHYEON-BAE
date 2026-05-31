@@ -7,33 +7,9 @@
 [![Email](https://img.shields.io/badge/Email-2021401bjh@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:2021401bjh@gmail.com)
 [![Solved.ac](https://img.shields.io/badge/Solved.ac-jaehyeon3357-1E90FF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==&logoColor=white)](https://solved.ac/jaehyeon3357)
 
+[jaehyeon-bae.github.io ↗](https://jaehyeon-bae.github.io)
+
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## 📂 Featured Projects
 
@@ -68,26 +44,6 @@ Consistent Baekjoon submissions tracked in [algorithm_study](https://github.com/
 Primary language: **C++**
 
 ---
-
-
-
-
-
-<div align="center">
-
-<div align="center">
-
-
-
-</div>
-
-
-
-</div>
-
-
-
-
 
 ## 📫 Contact
 
